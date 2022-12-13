@@ -6,9 +6,24 @@
 }
 
 body {
-  background-image: url("../images/backgroundLp.png");
+  background-image: url("../../images/backgroundLp.png");
+  background-size: cover;
   background-repeat: no-repeat;
   background-position: right;
+}
+
+.container1 {
+  background-color: rgba(19, 18, 18, 0.9450980392);
+  width: 450px;
+  height: auto;
+}
+
+.btn {
+  margin: 5px 0;
+  border: #ff0043;
+}
+.btn:hover {
+  background-color: #ff0043;
 }
 
 /*# sourceMappingURL=style.css.map */

@@ -6,9 +6,24 @@
 }
 
 body{
-    background-image: url("../images/backgroundLp.png");
+    background-image: url("../../images/backgroundLp.png");
+    background-size: cover;
     background-repeat: no-repeat;
     background-position: right;
+    
+}
+.container1{
+    background-color: $background-color;
+    width: 450px;
+    height: auto;
+}
+.btn{
+    margin: 5px 0;
+    border: $button-color;
+    
+    &:hover{
+        background-color: $button-color;
+    }
 }
 
 
