@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  color: white;
+}
+
+body {
+  background-image: url("../images/backgroundLp.png");
+  background-repeat: no-repeat;
+  background-position: right;
+}
+
+/*# sourceMappingURL=style.css.map */
